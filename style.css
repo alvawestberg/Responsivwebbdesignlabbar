@@ -1,0 +1,44 @@
+*, *::before, *::after {
+    box-sizing: border-box
+}
+
+h1 {
+    color: darkblue;
+    font-size: 2rem;
+}
+
+p {
+    color: blue;
+    line-height: 1.5;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+}
+
+.intro {
+    font-size: 1.25rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: pink;
+    font-size: 2rem;
+}
+
+#meny {
+    background-color: darkblue;
+}
+
+.card {
+    border: 5px solid #ccc;
+    margin-bottom: 1rem;
+    width: 300px;
+    padding: 20px;
+}
+
+footer {
+    color:aqua;
+    margin-top: 2rem;
+
+}
